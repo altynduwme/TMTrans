@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.321,C:\Users\Altynduwme\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Programming\Projects\TmTrans\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.203,=D:\Programming\Projects\TmTrans\Unit32.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.679,=D:\Programming\Projects\TmTrans\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.940,=D:\Programming\Projects\TmTrans\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.152,=D:\Programming\Projects\TmTrans\Unit42.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.605,=D:\Programming\Projects\TmTrans\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.954,C:\Users\Altynduwme\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Programming\Projects\TmTrans\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.626,=D:\Programming\Projects\TmTrans\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.320,D:\Programming\Projects\TmTrans\Project1.dproj=D:\Programming\Projects\TmTrans\TmTrans.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.321,C:\Users\Altynduwme\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Programming\Projects\TmTrans\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.350,=C:\Users\Altynduwme\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.881,=C:\Users\Altynduwme\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.04.16 11:43:40.702,=D:\Programming\Projects\TmTrans\Unit6.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
